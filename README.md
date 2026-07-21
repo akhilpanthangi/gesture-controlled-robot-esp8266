@@ -17,7 +17,7 @@ and the command is sent to the robot over Wi-Fi using HTTP.
 
 [▶ Watch the robot demonstration](media/demo.mp4)
 
-![Real-time hand-landmark detection](media/gesture-detection.jpg)
+![Real-time hand-landmark detection](media/gesture-forward-detection.jpg)
 
 ## Gesture controls
 
