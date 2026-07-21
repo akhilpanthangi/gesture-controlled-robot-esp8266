@@ -1,0 +1,20 @@
+# Python environments and cache
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# IDE files
+.idea/
+.vscode/
+
+# Arduino build output
+build/
+*.bin
+*.elf
+*.hex
+
+# Operating-system files
+.DS_Store
+Thumbs.db
