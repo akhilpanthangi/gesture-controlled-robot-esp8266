@@ -187,6 +187,10 @@ gesture-controlled-robot-esp8266/
 - Adjustable gesture thresholds through a user interface
 - MediaPipe Tasks migration for future library compatibility
 
+## Author
+
+**Akhil Panthangi**
+
 ## License
 
 This project is open source under the [MIT License](LICENSE).
